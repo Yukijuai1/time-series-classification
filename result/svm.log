@@ -1,0 +1,21 @@
+Loading data...
+
+Building classifier...
+
+Training...
+
+Predicting...
+[1 1 1 ... 1 1 1]
+0.9532669549767006
+              precision    recall  f1-score   support
+
+           1       0.96      0.99      0.98     23830
+           2       0.92      0.78      0.84      4647
+           3       0.89      0.85      0.87      1352
+
+    accuracy                           0.95     29829
+   macro avg       0.92      0.87      0.90     29829
+weighted avg       0.95      0.95      0.95     29829
+
+cost  17.0974600315094  second 
+
